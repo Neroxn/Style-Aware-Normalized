@@ -1,8 +1,0 @@
-datasets/
-output/
-slurm/
-
-*/__pycache__/*
-
-# PyCharm files
-.idea
